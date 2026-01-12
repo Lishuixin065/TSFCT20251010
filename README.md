@@ -1,1 +1,3 @@
 These are the MATLAB codes from the paper "Time-reassigned synchrosqueezing frequency-domain chirplet transform for multicomponent signals with intersecting group delay curves."
+
+The folder TSFCTJan2026 contains GPU-accelerated implementations of the TSFCT and SCT algorithms, offering significant speed improvements for practical use. While these implementations are functional, they may not be fully optimized and could benefit from further refinement. If you use or build upon this work, please cite our paper: “Time-reassigned synchrosqueezing frequency-domain chirplet transform for multicomponent signals with intersecting group delay curves.” We welcome feedback and collaboration from the broader research community.
